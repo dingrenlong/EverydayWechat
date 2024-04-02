@@ -20,7 +20,8 @@ auto_reply_info:
 
   # 白名单，is_auto_reply_all: False 生效。此名单的用户才可自动回复。（填：文件传输助手，可回复自己，测试效果）
   auto_reply_white_list:
-    - '诗风'
+    - '丁'
+    - '巫巫'
     - '文件传输助手'
 
   # 黑名单，is_auto_reply_all:True 生效。此名单不会自动回复。
